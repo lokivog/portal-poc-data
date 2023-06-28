@@ -1,0 +1,12 @@
+{
+    "items": [
+        {
+            "value": 4,
+            "name": "Open"
+        },
+        {
+            "value": 15,
+            "name": "Closed"
+        }
+    ]
+}
