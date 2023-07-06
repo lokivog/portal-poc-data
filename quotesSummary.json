@@ -1,12 +1,12 @@
 {
     "items": [
         {
-            "value": 8,
+            "value": 2,
             "name": "Open"
         },
         {
-            "value": 127,
-            "name": "Closed"
+            "value": 1,
+            "name": "Expiring"
         }
     ]
 }
