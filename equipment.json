@@ -1,7 +1,6 @@
 {
     "items": [
         {
-            "account": "FOURTH FINANCIAL",
             "site": "000106278",
             "address": "400 E 9 MILE RD",
             "city": "LOGANSPORT",
@@ -13,7 +12,6 @@
             "description": "Opteva 720 Rear Load Lobby Terminal"
         },
         {
-            "account": "FOURTH FINANCIAL",
             "site": "000300137",
             "address": "6010 ROCHESTER RD",
             "city": "LANSING",
@@ -25,7 +23,6 @@
             "description": "7780 Drive-Up TTW Full Function Terminal"
         },
         {
-            "account": "FOURTH FINANCIAL",
             "site": "000488353",
             "address": "31716 GRAND RIVER AVE",
             "city": "ADRIAN",
@@ -37,7 +34,6 @@
             "description": "DN Series 470V Rearload"
         },
         {
-            "account": "FOURTH FINANCIAL",
             "site": "000878702",
             "address": "28201 HARPER AVE",
             "city": "SYLVANIA",
@@ -49,7 +45,6 @@
             "description": "OPTEVA 740 DRIVE-UP ATM"
         },
         {
-            "account": "FOURTH FINANCIAL",
             "site": "001302595",
             "address": "9000 15 MILE",
             "city": "MARION",
@@ -61,7 +56,6 @@
             "description": "9900 Lobby CS Terminal"
         },
         {
-            "account": "FOURTH FINANCIAL",
             "site": "001638642",
             "address": "29450 WEST WARREN",
             "city": "ROYAL OAK",
@@ -73,7 +67,6 @@
             "description": "DN Series 470V Rearload"
         },
         {
-            "account": "FOURTH FINANCIAL",
             "site": "001716935",
             "address": "1609 WALKER AVE NW",
             "city": "LOWELL",
@@ -85,7 +78,6 @@
             "description": "OPTEVA 750 ISLAND DRIVE-UP ATM"
         },
         {
-            "account": "FOURTH FINANCIAL",
             "site": "002227540",
             "address": "5601 ELDRED",
             "city": "LIMA",
@@ -97,7 +89,6 @@
             "description": "7750 CS TTW Walk-up ATM"
         },
         {
-            "account": "FOURTH FINANCIAL",
             "site": "002432410",
             "address": "470 E NINE MILE RD",
             "city": "SANDUSKY",
@@ -109,7 +100,6 @@
             "description": "7780 Drive-Up TTW Full Function Terminal"
         },
         {
-            "account": "FOURTH FINANCIAL",
             "site": "004404760",
             "address": "16255 HALL RD",
             "city": "INDIANAPOLIS",
@@ -121,7 +111,6 @@
             "description": "DN Series 470V Rearload"
         },
         {
-            "account": "FOURTH FINANCIAL",
             "site": "004833180",
             "address": "28845 WOODWARD AVE",
             "city": "BERKLEY",
@@ -133,7 +122,6 @@
             "description": "DN Series 470V Rearload"
         },
         {
-            "account": "FOURTH FINANCIAL",
             "site": "006954130",
             "address": "6515 W MAPLE RD",
             "city": "PORTAGE",
@@ -145,7 +133,6 @@
             "description": "DN Series 470V Rearload"
         },
         {
-            "account": "FOURTH FINANCIAL",
             "site": 1187911,
             "address": "28201 HARPER AVE",
             "city": "SYLVANIA",
@@ -157,7 +144,6 @@
             "description": "OPTEVA 740 DRIVE-UP ATM"
         },
         {
-            "account": "FOURTH FINANCIAL",
             "site": 1753527,
             "address": "1407 S DIVISION ST",
             "city": "NORTH CANTON",
@@ -169,7 +155,6 @@
             "description": "OPTEVA 740 DRIVE-UP ATM"
         },
         {
-            "account": "FOURTH FINANCIAL",
             "site": 3921640,
             "address": "55600 VAN DYKE",
             "city": "COLUMBUS",
@@ -181,7 +166,6 @@
             "description": "7780 Drive-Up TTW Full Function Terminal"
         },
         {
-            "account": "FOURTH FINANCIAL",
             "site": 4118842,
             "address": "625 S STATE ST",
             "city": "SOUTH BEND",
@@ -193,7 +177,6 @@
             "description": "7790 Drive-Up Island Full Function Terminal"
         },
         {
-            "account": "FOURTH FINANCIAL",
             "site": 4118844,
             "address": "28201 HARPER AVE",
             "city": "SYLVANIA",
@@ -205,7 +188,6 @@
             "description": "7780 Drive-Up TTW Full Function Terminal"
         },
         {
-            "account": "FOURTH FINANCIAL",
             "site": 4296847,
             "address": "12820 FORT ST",
             "city": "JACKSON",
